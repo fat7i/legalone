@@ -36,7 +36,7 @@ To run tests, follow these steps:
 
 1. Access your PHP Docker container:
    ````
-      docker exec -it php bash
+   docker exec -it php bash
    ````
 
 2. Run PHPUnit tests:
